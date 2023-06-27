@@ -6,11 +6,8 @@
       "isios": 0,
       "iosU": "1",
       "Area": [
-        "TR",
-        "BR",
         "HK",
-        "VN",
-        "KR"
+        "VN"
       ],
       "Event": [
         "adj_complete_registration",
